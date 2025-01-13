@@ -20,7 +20,7 @@ import heredity from './heredity.jpg';
 import moana from './moana.jpg';
 import parasite from './parasite.jpg';
 import schindlerslist from './schindlerslist.jpg';
-import shawshank from './shawshank.jpg';
+// import shawshank from './shawshank.jpg';
 import sonic from './sonic.jpg';
 import spiritedaway from './spiritedaway.jpg';
 import survive from './survive.jpg';
@@ -103,12 +103,12 @@ const cards_data = [
         category: "popular",
         redirect: "IN5TD4VRcSM?si=fm84GNenwcSlQaAB"
     },
-    {
-        image: shawshank,
-        name: "Shawshank Redemption",
-        category: "top_rated",
-        redirect: "PLl99DlL6b4?si=7rpNX1615vQ0gF_a",
-    },
+    // {
+    //     image: shawshank,
+    //     name: "Shawshank Redemption",
+    //     category: "top_rated",
+    //     redirect: "PLl99DlL6b4?si=7rpNX1615vQ0gF_a",
+    // },
     {
         image: darknight,
         name: "The Dark Knight",
@@ -265,12 +265,12 @@ const cards_data = [
         category: "now_playing",
         redirect: "V6wWKNij_1M?si=ivcDHV_qwBORC8xH"
     },
-    {
-        image: shawshank,
-        name: "Shawshank Redemption",
-        category: "now_playing",
-        redirect: "PLl99DlL6b4?si=7rpNX1615vQ0gF_a"
-    },
+    // {
+    //     image: shawshank,
+    //     name: "Shawshank Redemption",
+    //     category: "now_playing",
+    //     redirect: "PLl99DlL6b4?si=7rpNX1615vQ0gF_a"
+    // },
     {
         image: spiritedaway,
         name: "Spirited Away",
